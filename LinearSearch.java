@@ -7,7 +7,7 @@ public static int linearSearch(int[] arr, int target)
             if (arr[i] == target) {
                 return i; // Return index if found
             }      }
-        return -1; // Return -1 if not found
+        return -1; 
 
  }
     public static void main(String[] args) {
